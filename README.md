@@ -1,6 +1,10 @@
 # Mammoth Cyber Browser
 
-Check [releases](https://github.com/appaegis/mammoth-unity-release/releases) to download **Mammoth Cyber Browser** for your platform.
+Check [releases](https://github.com/appaegis/mammoth-unity-release/releases/latest) to download **Mammoth Cyber Browser** for your platform.
+
+* For Windows, download the installation file such as "mammoth-unity-install-[version]-windows.msi"
+* For macOS, download the installation file such as "mammoth-unity-install-[version]-macos.dmg"
+
 The Mammoth Cyber Browser is also a Zero-Trust access agent for users wants to securely access remote servers. Users can use SSH, RDP, Kubectl clients that are already installed locally.
 
 This software is published by [Mammoth Cyber](https://www.mammothcyber.com). All rights reserved.
